@@ -1,5 +1,9 @@
 package com.lti.demogit;
 
 public class Product {
+	public static void main(String[] args) {
+		System.out.println("hello");
+	}
+	
 
 }
